@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### I'm Bohdan, a Full-Stack Engineer based in Ukraine 🇺🇦
+
+---
+
+I am a full-stack developer with over 2 years of commercial experience building web applications. I specialize in the Node.js and React ecosystems, with hands-on experience integrating modern AI features, building RAG implementations, and developing smart automation workflows.
+
+
 <!--
 **bell-404err/bell-404err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
